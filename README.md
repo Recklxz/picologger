@@ -38,6 +38,8 @@ Install CircuitPython on Raspberry Pi Pico
 1. Connect the Pico to any USB-enabled device.
 2. The Pico will automatically start executing the keystroke commands based on the loaded Ducky Script.
 3, Data will be captured and logged as specified in the payload script.
+4. Change the <REMOTE_IP> <REMOTE_PORT> with the attacker's ip and port.
+5. use a listener like netcat.
 
 
 # Applications and Ethical Use
