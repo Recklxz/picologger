@@ -9,18 +9,18 @@ In this project, a Raspberry Pi Pico is converted into a Rubber Ducky-style USB 
 
 
 # Features
-. Keystroke Injection: Executes sequences of commands using Ducky Script to simulate rapid typing.
-. Data Logging: Captures and stores keystrokes for analysis.
-. Lightweight and Portable: The Pico is small and can operate independently as a USB device.
-. Customizable Payloads: Modify Ducky Script to execute various commands for different test cases.
+1. Keystroke Injection: Executes sequences of commands using Ducky Script to simulate rapid typing.
+2. Data Logging: Captures and stores keystrokes for analysis.
+3. Lightweight and Portable: The Pico is small and can operate independently as a USB device.
+4. Customizable Payloads: Modify Ducky Script to execute various commands for different test cases.
 
 
 # Prerequisites
-. Raspberry Pi Pico
-. Micro-USB cable
-. CircuitPython installed on the Raspberry Pi Pico
-. Ducky Script knowledge
-. Python 3.x for additional scripting needs
+1. Raspberry Pi Pico
+2. Micro-USB cable
+3. CircuitPython installed on the Raspberry Pi Pico
+4. Ducky Script knowledge
+5. Python 3.x for additional scripting needs
 
 # Installation
 Install CircuitPython on Raspberry Pi Pico
@@ -49,5 +49,5 @@ Experiment with keystroke injection for training and research in cybersecurity.
 ⚠️ Disclaimer: This project is intended for educational and authorized testing purposes only. Unauthorized use of keylogging or USB injection is illegal and unethical.
 
 # Resources
-. https://circuitpython.org/
-. https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
+1. https://circuitpython.org/
+2. https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
